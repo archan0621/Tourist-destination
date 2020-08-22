@@ -1,0 +1,13 @@
+/*only for personal developing*/
+#photos {
+	width: 700px;
+	height: 700px;
+	position: absolute;
+	overflow-y: scroll;
+	border: 5px solid #ccc;
+	background-color: #fff;
+	display: none;
+	img {
+		max-width: 100%;
+	}
+}
